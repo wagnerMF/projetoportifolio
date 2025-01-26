@@ -1,0 +1,21 @@
+- O que é o CSS?
+	- Cascading Style Sheets
+	- Arquivos de Estilização em Cascata
+
+- Formas de escrever CSS
+	- Inline CSS
+	- Internal CSS / CSS Interno
+	- External CSS / CSS Externo
+	
+- Seletores básicos:
+	Elementos (h1, p, etc.).
+	Classes (.classe).
+	IDs (#id).
+	
+- Propriedades principais:
+	Cores (color, background-color).
+	Fontes (font-family, font-size).
+	Espaçamento (margin/espaçamento externo, padding/espaçamento interno).
+	Alinhamento e layout básico (text-align, display, flexbox).
+	
+- Introdução ao sistema de layout (por exemplo, flexbox para organizar seções)
